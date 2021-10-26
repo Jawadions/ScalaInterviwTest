@@ -25,7 +25,7 @@ object BasicScala {
 
    
 object EMail {
-		def apply(user: String, domain: String) = user +"@"+ domain
+		def apply(user: String, domain: String ) = user +"@"+ domain
 
 		def unapply(str: String): Option[(String, String)] = {
 			val parts = str split "@"
@@ -51,7 +51,12 @@ object EMail {
    * output : 1723793299
    */
 def power(i: Int, n: Int): Int = {
-        var ans = scala.math.pow(i,n)
+      for ( var x <- 1 to n ) {
+   
+        power = 1 
+         for (var x <- 1 to n ) {
+        power = i*i 
+}
         println("The value of "+i+" to the power of "+p+" is "+ ans)
     }
 

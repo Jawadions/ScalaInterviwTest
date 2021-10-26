@@ -1,7 +1,7 @@
 package com.particeep.test.basic
 
 /**
- * What is the complexity of the function ?
+ * What is the complexity of the function ? n^2
  *
  * Refactor it to be a better function
  */
