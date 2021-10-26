@@ -1,0 +1,29 @@
+
+1) Explain REST
+
+ REST determines how the API looks like. It stands for “Representational State Transfer”. 
+ It is a set of rules that developers follow when they create their API. One of these rules 
+ states that you should  be able to get a piece of data (called a resource) 
+ when you link to a specific URL
+REST is a set of architectural constraints. It is neither a protocol nor a standard. API developers can implement REST in a number of ways.
+
+2) Explain the architectural style for the creation of a web API (client server communication, formatting language, number of servers, etc.)
+   HTTP for client server communication
+   XML/JSON as formatting language
+   Simple URI as the address for the services
+   Stateless communication
+3) What are the best practices when deploying an application in the cloud
+   Creating Agile Environments with DevOps
+   Creating a Defined Deployment Process
+   Adoption of Cloud Automation Processes and Tools
+   Security Built-Ins During Deployment
+   Applying Kaizen with SDI
+
+4) What are your best strength : infra ? DB ? web ?
+since i've created several web projects, I guess i am more experienced in web then the other fields furthermore i am passionate  in creating web applications also it is my speciality in my studies 
+
+
+5) Among all the projects you have worked on. Which architecture do you enjoy the most? explain why ?
+
+I've being working with the client server architecture and i am quite enjoying it since it easy to implement  also it's easy to replace, repair, upgrade and relocate a server while client remains unaffected . As all the data is stored on the server it's easy to make a back-up of it. ,and  It does not slow down with heavy use . 
+
